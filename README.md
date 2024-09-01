@@ -1,4 +1,4 @@
-graphite-monitoring
+Graphite monitoring
 ===================
 
-Different scripts for graphite monitoring
+Different scripts for graphite monitoring.
